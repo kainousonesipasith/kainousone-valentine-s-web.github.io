@@ -20,7 +20,7 @@ function onChangeClick() {
     } else{
         displayedImage.src = "heart broken.png";
         document.getElementById("demo").innerHTML ="elee wa T-T"
-        document.getElementById("demo1").innerHTML ="(u can click yes only)"
+        document.getElementById("demo1").innerHTML ="(you can click yes only)"
     }
     
     // Increment the click count
