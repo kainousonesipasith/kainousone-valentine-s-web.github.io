@@ -3,6 +3,8 @@ function onYesClick() {
     document.getElementById('noButton').style.display = ''; // Hide the No button
     document.getElementById('displayedImage').src = "hfull.jpg";
     document.getElementById('yesButton').classList.add('smaller');
+    document.getElementById("demo1").innerHTML =""
+
   }
   
 
